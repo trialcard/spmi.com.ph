@@ -253,9 +253,9 @@ section{
 }
  
 .newsletter{
-    background: url(images/new.jpg) no-repeat;
+    background: url(img/img2.png) no-repeat;
     background-size: cover;
-    background-position: center center;
+    background-size: cover;
     background-attachment: fixed;
 }
 .newsletter form{
@@ -336,7 +336,6 @@ section{
 }
 
 .footer {
-    background: url(images/backGround.png) no-repeat;
     background-size: cover;
     background-position: center center;
 }
@@ -407,23 +406,6 @@ section{
     
 }
 
-/* thanks for watching my video  */
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 .swiper-pagination-bullet{
     background-color: var(--black);
@@ -434,9 +416,6 @@ section{
 .swiper-button-prev{
     color: var(--black);
 }
-
-
-/* media queries for web responsive */
 
 @media (max-width:991px){
     html{
